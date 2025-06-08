@@ -1,0 +1,102 @@
+{
+  "document_name": "AA Cover Letter-KM",
+  "patient_name": "Kimberly-Matson",
+  "evaluation": [
+    {
+      "question_num": 1,
+      "question": "A complete history.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "The patient states that on March 8, 2016, while working as a property administrator for Northrop Grumman Corporation, she sustained a work-related injury to her neck, back, left leg, knee and foot/ankle. The patient explains that as she walked between pallets, her foot got caught in the pallet and she lost her balance. She twisted her left ankle and fell and landed on her left knee and left side of her body. Initially, she experienced pain in her left leg, left knee, ankle and foot. She also experienced soreness in her neck and back: <SOURCE>Gofnung, Eric DC (Brad).md</SOURCE>"
+    },
+    {
+      "question_num": 2,
+      "question": "Applicant's present complaints.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "Current complaints: \u201cNeck pain; back pain; left hip pain; left knee pain; left ankle pain; left foot pain; stress; stress; depression.\u201d <SOURCE>DA RECORDS.md</SOURCE>"
+    },
+    {
+      "question_num": 3,
+      "question": "Your examination findings.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "Examination findings: The patient has moderate to marked point of being unable to keep job at this time. The industrial psyche causation Was 60% attributed to the disturbing events that occurred at work and 20% to aggravated muscle tension and pain. The remaining 20% is apportioned to family matters, personal losses, personal life stressors and medical issues. The claimant needs to have cognitive behavioral therapy. <SOURCE>Delker, Leine (PQME) 5-21-24.md</SOURCE>"
+    },
+    {
+      "question_num": 4,
+      "question": "Your diagnosis.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "Diagnoses: 1) Major depressive disorder single episode; 2) Generalized anxiety disorder occupied with worries about the future; 3) Psychological factors affecting medical condition; 4) GAF 47. She had moderate to marked point of being unable to keep job at this time. The industrial psyche causation Was 60% attributed to the disturbing events that occurred at work and 20% to aggravated muscle tension and pain. The remaining 20% is apportioned to family matters, personal losses, personal life stressors and medical issues. The claimant needs to have cognitive behavioral therapy. <SOURCE>Delker, Leine (PQME) 5-21-24.md</SOURCE>"
+    },
+    {
+      "question_num": 5,
+      "question": "Your opinion as to the relationship, if any, between Applicant's employment and the claimed injury.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "The injury occurred as follows: The patient states that on March 8, 2016, while working as a property administrator for Northrop Grumman Corporation, she sustained a work-related injury to her neck, back, left leg, knee and foot/ankle. The patient explains that as she walked between pallets, her foot got caught in the pallet and she lost her balance. She twisted her left ankle and fell and landed on her left knee and left side of her body. Initially, she experienced pain in her left leg, left knee, ankle and foot. She also experienced soreness in her neck and back: <SOURCE>Gofnung, Eric DC (Brad).md</SOURCE>"
+    },
+    {
+      "question_num": 6,
+      "question": "If the Applicant's condition is permanent and stationary or has it reached maximum medical improvement.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "The patient has attained maximal medical improvement. Before assigning permanent work restrictions, she had been referred for a Work Capacity Evaluation. <SOURCE>Delker, Leine (PQME) 5-21-24.md</SOURCE>"
+    },
+    {
+      "question_num": 7,
+      "question": "If the Applicant's condition is not permanent and stationary, when do you expect the Applicant to be so. Is the Applicant TTD?",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "I will reevaluate the patient again in four weeks. I hope the above information has been helpful to you and thank you for referring this patient to my office for orthopedic examination. <SOURCE>Haronian, Edwin (MD) 7-12-23.md</SOURCE>"
+    },
+    {
+      "question_num": 8,
+      "question": "Is there permanent disability/impairment? If so, please specify all subjective and objective factors. Please describe any permanent impairment using the Global Assessment of Functioning (GAF) Scale.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "The claimant has a total whole-person impairment of 30% concerning her right hand, lumbar spine, and left ankle injuries. The claimant has attained maximal medical improvement. Before assigning permanent work restrictions, she had been referred for a Work Capacity Evaluation. <SOURCE>Delker, Leine (PQME) 5-21-24.md</SOURCE>"
+    },
+    {
+      "question_num": 9,
+      "question": "If appropriate, please specifically apportion the permanent disability/impairment between industrial and non-industrial injuries or conditions.",
+      "status": "addressed",
+      "references": "<SOURCE>DA RECORDS.md</SOURCE>",
+      "follow_up": "",
+      "paragraph": "Dr. Berman apportioned Ms. Matson\u2019s lumbar spine, left knee, and left ankle impairment one-third to pre-existing factors with two-thirds apportioned to the triggering effect of the acute injury. Dr. Gofnung apportioned 100% of Ms. Matson\u2019s cervical spine, lumbar spine, and left lower extremity impairment to the 3/8/16 injury and 0% to non-industrial causes. Dr. Davidson apportioned 60% of Ms. Matson\u2019s impairment to her industrial injury of 3/08/16 and 40% to pre-existing non-industrial conditions. <SOURCE>DA RECORDS.md</SOURCE>"
+    },
+    {
+      "question_num": 10,
+      "question": "What, if any, future medical care is necessary to cure or relieve the effects of the industrial injury.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "What future medical care is necessary to cure or relieve the effects of the industrial injury?",
+      "paragraph": ""
+    },
+    {
+      "question_num": 11,
+      "question": "Is the Applicant able to return to work in his or her usual and customary employment?",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Is the applicant able to return to work in his or her usual and customary employment?",
+      "paragraph": ""
+    },
+    {
+      "question_num": 12,
+      "question": "Please forward an original of your report to my office and the adjuster. Labor Code 139.2(j)(1)(A) requires that your report be prepared and submitted no more than 30 days after your examination.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please provide the original report to my office and the adjuster within 30 days of the examination.",
+      "paragraph": ""
+    }
+  ]
+}

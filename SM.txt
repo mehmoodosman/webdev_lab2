@@ -1,0 +1,113 @@
+{
+  "document_name": "DA COVER LETTER-SM",
+  "patient_name": "Sheida-Morvarid",
+  "evaluation": [
+    {
+      "question_num": 1,
+      "question": "What are the current dental diagnoses, and which of those are associated with the injury sustained at Macy's, if any? Please discuss the body parts that were injured as part of the industrial incident, and which were not. Please discuss fully these diagnoses and their significance.",
+      "status": "addressed",
+      "references": "Records_3_of_4.md",
+      "follow_up": "",
+      "paragraph": "The following are the patient\u2019s diagnoses as a result of her industrial injury: 1. Right and left temporomandibular joint derangement. 2. Bruxism/Parafunctional habit (clenching and grinding of teeth secondary to stress and orthopedic pain). 3. Capsulitis of the right and left TMJ: Inflammation of the right and left temporomandibular joints. 4. Myofascial pain. 5. Xerostomia (dry mouth). 6. Broken teeth #\u2019s 2, 12, 14, and 15. 7. Dental decay teeth #\u2019s 1, 7, 10, 13, 16, and 28. 8. Periodontal disease. 9. Broken teeth #\u2019s 4 and 6. 10. Missing bridge #4-6 and 28-30. 11. Broken restorations. 12. Dental decay teeth #\u2019s 3, 4, 6, 7, 8, 9, 10, 11, 12, 19, 20, 21, and 26. 13. Missing teeth #5 and 29. 14. Status post direct head trauma with traumatic brain injury. 15. Altered sensation of all 3 branches of right trigeminal nerve. These diagnoses are significant as they indicate the extent of dental and oral health issues caused by the industrial injury. The body parts injured include the teeth, TMJ, facial muscles, and gums."
+    },
+    {
+      "question_num": 2,
+      "question": "Are the subjective complaints supported by objective findings? Please explain the rationale for your conclusions. Please fully discuss the any medical condition for which you feel the applicant suffers.",
+      "status": "addressed",
+      "references": "Records_3_of_4.md",
+      "follow_up": "",
+      "paragraph": "Yes, the subjective complaints are supported by objective findings. The patient's reports of dental pain, jaw pain, and difficulty with oral hygiene are consistent with the observed dental decay, periodontal disease, and TMJ issues. The patient's history of bruxism and clenching is also supported by the objective findings of teeth indentations and wear on the incisal surfaces of the anterior teeth."
+    },
+    {
+      "question_num": 3,
+      "question": "Are there any non-physiological findings present on examination? Please explain the rationale for your conclusions.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Are there any indications of malingering or exaggeration of symptoms?"
+    },
+    {
+      "question_num": 4,
+      "question": "Is there evidence of dysfunctional illness behavior? Please explain the rationale for your conclusions.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please provide examples of any dysfunctional illness behavior observed."
+    },
+    {
+      "question_num": 5,
+      "question": "Was the injury a new problem, an aggravation, or contribution to a pre-existing problem, or does this reflect a temporary exacerbation? Please present your medical conclusions, to a reasonable degree of medical certainty concerning the cause, the effect and the relationship between the cause and effect. Please explain the rationale for your conclusions.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please discuss the pre-existing conditions and how the injury may have aggravated or contributed to them."
+    },
+    {
+      "question_num": 6,
+      "question": "Is this applicant at MMI from the claimed injuries from a dental perspective? If so, please discuss the date whereat she reached plateau based upon your evaluation, as well as review of the medical treatment reports.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please provide the date and rationale for the MMI determination."
+    },
+    {
+      "question_num": 7,
+      "question": "If the applicant has reached MMI, what is the overall percentage of whole person impairment caused by the industrial injury, under the AMA guides, with reference to the pertinent page, table and chart numbers, as discussed above? Please discuss the Almarez/Guzman case, and if there is basis for assessment of WPI under the 4 corners of the Guides.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please provide the WPI percentage and the relevant AMA guide references."
+    },
+    {
+      "question_num": 8,
+      "question": "What is the percentage of permanent disability due to all other factors, including prior injuries? Please also discuss any percentage that would be attributed to his current employment and job duties. As part of this evaluation it is mandatory that comment be made on apportionment pursuant to Labor Code \u00a74663 and 4664. Therefore, we ask that you please identify a) the overall percentage of permanent disability caused by the industrial injury and b) the percentage of permanent disability due to all other factors, including prior injuries. If you cannot provide an opinion of apportionment, please state why.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please provide the apportionment percentages and the rationale for your conclusions."
+    },
+    {
+      "question_num": 9,
+      "question": "If the applicant has not reached MMI, what is the prognosis? What is the basis for this prognosis?",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please discuss the prognosis and the basis for it."
+    },
+    {
+      "question_num": 10,
+      "question": "Is the current treatment consistent with recognized evidence based medical practice guidelines, and is the treatment reasonable or necessary to relieve or cure from the effects of the injury? Please explain the rationale for your conclusions.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please discuss the appropriateness of the current treatment."
+    },
+    {
+      "question_num": 11,
+      "question": "Is any of the treatment inappropriate? Please explain the rational for your conclusions.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please identify any inappropriate treatments and explain why."
+    },
+    {
+      "question_num": 12,
+      "question": "Would the continuation of any of the care currently being rendered result in a deterioration of dysfunction? Please explain the rationale for your conclusions.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please discuss any potential risks of continuing the current care."
+    },
+    {
+      "question_num": 13,
+      "question": "What further diagnostic evaluation and/or treatment are required at this time?",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please recommend any additional evaluations or treatments needed."
+    },
+    {
+      "question_num": 14,
+      "question": "Please provide any other information that you feel would be useful in understanding this case.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please include any additional relevant details."
+    },
+    {
+      "question_num": 15,
+      "question": "Please ensure to include the requisite disclosures and statements under penalty of perjury as required under Labor Code sections 139.2 and 139.3.",
+      "status": "unaddressed",
+      "references": "",
+      "follow_up": "Please provide the necessary disclosures and statements."
+    }
+  ]
+}
